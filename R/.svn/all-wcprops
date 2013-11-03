@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/R
+END
+PartitionWithLLR.R
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/R/PartitionWithLLR.R
+END
+A.R
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/R/A.R
+END
+FDR_toolbox.R
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/R/FDR_toolbox.R
+END
+LinearRule.R
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/R/LinearRule.R
+END
+QuadraticRule.R
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/R/QuadraticRule.R
+END

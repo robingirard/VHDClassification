@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man
+END
+plotClassifRule.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/plotClassifRule.Rd
+END
+getBinaryRule.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/getBinaryRule.Rd
+END
+getBinaryRule-methods.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/getBinaryRule-methods.Rd
+END
+learnBinaryRule.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/learnBinaryRule.Rd
+END
+learnPartitionWithLLR.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/learnPartitionWithLLR.Rd
+END
+PartitionWithLLR-class.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/PartitionWithLLR-class.Rd
+END
+LinearRule-class.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/LinearRule-class.Rd
+END
+getLogLikeRatio.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/getLogLikeRatio.Rd
+END
+z.EvaluateLogLikeRatio-methods.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/z.EvaluateLogLikeRatio-methods.Rd
+END
+VHDClassification-package.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/VHDClassification-package.Rd
+END
+getLogLikeRatio-methods.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/getLogLikeRatio-methods.Rd
+END
+QuadraticRule-class.Rd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-enr/!svn/ver/861/trunk/RPackages/VHDClassification/man/QuadraticRule-class.Rd
+END

@@ -1,0 +1,17 @@
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    ".EvaluateLogLikeRatio",
+    "getBinaryRule",
+    "getLogLikeRatio",
+    "plotClassifRule",
+    "predict",
+    "show" 
+)
+exportClasses(
+    "LinearRule",
+     "PartitionWithLLR",
+     "QuadraticRule" 
+)
+export(".learnLinearRulefortune",".learnQuadraticRulefortune",
+".LDA",".QDA",".tune.QDA",".tune.LDA")
+import('e1071','lattice','stats','graphics')

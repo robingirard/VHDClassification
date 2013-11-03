@@ -1,0 +1,12 @@
+Package: VHDClassification
+Type: Package
+Title: Discrimination/Classification in very high dimension with linear and quadratic rules. 
+Version: 0.2
+Date: 2010-06-16
+Author: Robin Girard
+Maintainer: Robin Girard <robin.girard@mines-paristech.fr>
+Description: This package provides an implementation of Linear disciminant analysis and quadratic discriminant analysis that works fine in very high dimension (when there are many more variables than observations). 
+License: GPL-2
+LazyLoad: yes
+Depends: methods, e1071, lattice, stats
+Suggests: pamr,randomForest
